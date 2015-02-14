@@ -1,11 +1,21 @@
+h2 {
+    font-size: 1.6018rem;
+    line-height: 1.8729;
+}
+
 dt {
     color: pink;
     font-family: sans-serif;
+    margin: 3% 0 0 1rem;
+    font-size: 1.2656rem;
+    line-height: 1.1852;
 }
 
 dd{
     color: maroon;
     font-family: sans-serif;
-    padding: 
+    margin: 1% 0 0 2.5rem;
+   font-size: 1.0000rem;
+    line-height: 1.5000;
 
 }
